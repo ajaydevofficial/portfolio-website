@@ -2,9 +2,11 @@
 html {
   overflow-x: hidden;
 }
+*{
+  scroll-behavior: smooth;
+}
 
 body {
-  scroll-behavior: smooth;
   background: #fff;
   font-size: 14px;
   font-weight: 400;
