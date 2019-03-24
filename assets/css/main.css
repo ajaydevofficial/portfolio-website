@@ -22,6 +22,10 @@ body {
   overflow-x: hidden;
 }
 
+.experience,.education{
+    margin: 4%;
+}
+
 h1, h2, h3, h4 {
   font-size: 38px;
   font-weight: 700;
@@ -406,7 +410,6 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .timeline li .line-title {
   font-size: 16px;
-  line-height: 6px;
 }
 
 .timeline li span {
