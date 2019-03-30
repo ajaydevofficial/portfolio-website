@@ -955,6 +955,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 .services-item .services-content p {
   line-height: 22px;
+  margin:4%;
 }
 
 .services-item:hover {
