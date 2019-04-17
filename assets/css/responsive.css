@@ -19,7 +19,15 @@
   }
   .services-item {
     margin-bottom: 20px;
-  }
+}
+.navbar-brand{
+    display: inline-flex;
+    height: 100%;
+}
+  .navbar-brand img{
+    margin: auto 0%;
+  width: 160px;
+  height: 40px;
 }
 
 /* only small tablets */
@@ -49,7 +57,8 @@
     font-size: 16px;
   }
   .navbar-brand img {
-    margin: 5px 0;
+    height:30px;
+    width:120px;
   }
   #hero-area .contents {
     padding: 100px 0px 60px 0px;
